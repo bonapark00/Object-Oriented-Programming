@@ -1,0 +1,17 @@
+<life 가 0이 된 경우>
+Hunter starved to death
+Game Over!
+
+<tiger가 이동후 옆에 있는 경우
+		/ tiger에게 이동한 경우>
+Hunter is dead
+Game Over!
+
+<r이 다 죽은 경우>
+Rabbits are gone
+Game Over!
+
+-----------------------------------
+<tiger 다 죽여서 이긴 경우>
+Tigers are all dead
+You Win!

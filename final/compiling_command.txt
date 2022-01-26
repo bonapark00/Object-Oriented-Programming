@@ -1,0 +1,17 @@
+g++ -o output Game.o World.o Life.o
+g++ *.cpp -o myp
+
+[이전 디렉토리로 가기]
+cd ../     
+
+lst_empty에있는 요소하나 고르기'
+new_Address = lst_Empty[rand()%(num_Empty-1)]
+
+흠 뭔가 arm이 아닐 거 같은데 안 되나보네요
+아래 명령어 같은 걸로 file permission을 적절히 셋팅해야할 거 같아욤
+
+chmod u+x x86_64
+sudo chmod u+x x86_64
+./x86_64
+		
+
